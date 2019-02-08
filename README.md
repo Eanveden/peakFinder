@@ -7,13 +7,13 @@ Algorithm ologn
 
 <b> definition of a peak: </b> 
 
-c is a peak if c >= b and c >= b
+  c is a peak if c >= b and c >= b
 
-a is a peak if a >= b
+  a is a peak if a >= b
 
 
-if(array[n/2] < array[n/2 + 1) then check right side for peak
+1.  if(array[n/2] < array[n/2 + 1) then check right side for peak
 
-else if (array [n/2] < array[n/2-1] then check left side for peak)
+2.  else if (array [n/2] < array[n/2-1] then check left side for peak)
 
-else return array[n/2] peak is found.
+3.  else return array[n/2] peak is found.
