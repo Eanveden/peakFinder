@@ -5,7 +5,7 @@ Algorithm ologn
 
 [a,b,c,d,e,f,g]
 
-<b> definition of a peak: </b> 
+<b> Definition of a peak: </b> 
 
   c is a peak if c >= b and c >= b
 
