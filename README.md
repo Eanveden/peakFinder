@@ -11,5 +11,7 @@ a is a peak if a >= b
 
 
 if(array[n/2] < array[n/2 + 1) then check right side for peak
+
 else if (array [n/2] < array[n/2-1] then check left side for peak)
+
 else return array[n/2] peak is found.
