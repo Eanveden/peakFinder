@@ -1,7 +1,7 @@
 # peakFinder
 Finds a peak value of a raw integer array  
  
- <b> ¯\_(ツ)_/¯  </b>
+        ¯\_(ツ)_/¯      
  
 Algorithm ologn 
 
