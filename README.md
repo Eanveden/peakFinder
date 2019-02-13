@@ -1,5 +1,5 @@
 # peakFinder
-Finds a peak value of a raw integer array ¯\_(ツ)_/¯
+Finds a peak value of a raw integer array  ¯\_(ツ)_/¯
  
 Algorithm ologn 
 
