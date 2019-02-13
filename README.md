@@ -1,6 +1,6 @@
 # peakFinder
 Finds a peak value of a raw integer array ¯\_(ツ)_/¯
-
+ 
 Algorithm ologn 
 
 [a,b,c,d,e,f,g]
