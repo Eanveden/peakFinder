@@ -9,7 +9,7 @@ Algorithm ologn
 
 <b> Definition of a peak: </b> 
 
-  c is a peak if c >= b and c >= b
+  c is a peak if c >= b and c >= d
 
   a is a peak if a >= b
 
